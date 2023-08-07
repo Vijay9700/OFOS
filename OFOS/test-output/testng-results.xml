@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="29" passed="28" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-08-05T12:25:44 IST" name="Default suite" finished-at="2023-08-05T12:31:05 IST" duration-ms="321509">
+    <groups>
+    </groups>
+    <test started-at="2023-08-05T12:25:44 IST" name="Default test" finished-at="2023-08-05T12:31:05 IST" duration-ms="321509">
+      <class name="OFOS.TC007_Order_Using_Cod">
+        <test-method is-config="true" signature="beforeSuit()[pri:0, instance:OFOS.TC007_Order_Using_Cod@6caf0677]" started-at="2023-08-05T12:25:43 IST" name="beforeSuit" finished-at="2023-08-05T12:25:44 IST" duration-ms="595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuit -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:OFOS.TC007_Order_Using_Cod@6caf0677]" started-at="2023-08-05T12:25:44 IST" name="browserSetup" finished-at="2023-08-05T12:25:52 IST" duration-ms="8246" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC007_Order_Using_Cod@6caf0677]" started-at="2023-08-05T12:25:52 IST" name="setup" finished-at="2023-08-05T12:25:52 IST" duration-ms="29" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC007_Order_Using_Cod.OrderUsingCod() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="OrderUsingCod()[pri:0, instance:OFOS.TC007_Order_Using_Cod@6caf0677]" started-at="2023-08-05T12:25:52 IST" name="OrderUsingCod" finished-at="2023-08-05T12:26:03 IST" duration-ms="11179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderUsingCod -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:OFOS.TC007_Order_Using_Cod@6caf0677]" started-at="2023-08-05T12:26:03 IST" name="CloseApp" finished-at="2023-08-05T12:26:04 IST" duration-ms="587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:OFOS.TC007_Order_Using_Cod@6caf0677]" started-at="2023-08-05T12:31:05 IST" name="afterSuite" finished-at="2023-08-05T12:31:06 IST" duration-ms="717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- OFOS.TC007_Order_Using_Cod -->
+      <class name="OFOS.TC006_Delete_Dish_FromCart">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:OFOS.TC006_Delete_Dish_FromCart@353352b6]" started-at="2023-08-05T12:26:04 IST" name="browserSetup" finished-at="2023-08-05T12:26:13 IST" duration-ms="9238" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC006_Delete_Dish_FromCart@353352b6]" started-at="2023-08-05T12:26:13 IST" name="setup" finished-at="2023-08-05T12:26:13 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC003_Add_Dishes_FromHome.addDishes() throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addDishes()[pri:0, instance:OFOS.TC006_Delete_Dish_FromCart@353352b6]" started-at="2023-08-05T12:26:13 IST" name="addDishes" finished-at="2023-08-05T12:26:20 IST" duration-ms="6429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDishes -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC006_Delete_Dish_FromCart@353352b6]" started-at="2023-08-05T12:26:20 IST" name="setup" finished-at="2023-08-05T12:26:20 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC006_Delete_Dish_FromCart.deleteDish()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="deleteDish()[pri:0, instance:OFOS.TC006_Delete_Dish_FromCart@353352b6]" started-at="2023-08-05T12:26:20 IST" name="deleteDish" finished-at="2023-08-05T12:26:41 IST" duration-ms="21381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteDish -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:OFOS.TC006_Delete_Dish_FromCart@353352b6]" started-at="2023-08-05T12:26:41 IST" name="CloseApp" finished-at="2023-08-05T12:26:42 IST" duration-ms="1110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- OFOS.TC006_Delete_Dish_FromCart -->
+      <class name="OFOS.TC018_Order_Dish_From_HellResturant">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:OFOS.TC018_Order_Dish_From_HellResturant@4681c175]" started-at="2023-08-05T12:26:42 IST" name="browserSetup" finished-at="2023-08-05T12:26:54 IST" duration-ms="11722" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC018_Order_Dish_From_HellResturant@4681c175]" started-at="2023-08-05T12:26:54 IST" name="setup" finished-at="2023-08-05T12:26:54 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC018_Order_Dish_From_HellResturant.orderDish()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="orderDish()[pri:0, instance:OFOS.TC018_Order_Dish_From_HellResturant@4681c175]" started-at="2023-08-05T12:26:54 IST" name="orderDish" finished-at="2023-08-05T12:26:57 IST" duration-ms="3362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderDish -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:OFOS.TC018_Order_Dish_From_HellResturant@4681c175]" started-at="2023-08-05T12:26:57 IST" name="CloseApp" finished-at="2023-08-05T12:26:58 IST" duration-ms="398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- OFOS.TC018_Order_Dish_From_HellResturant -->
+      <class name="OFOS.TC016_Order_Dish_From_SouthIndianResturant">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:OFOS.TC016_Order_Dish_From_SouthIndianResturant@57a78e3]" started-at="2023-08-05T12:26:58 IST" name="browserSetup" finished-at="2023-08-05T12:27:05 IST" duration-ms="7900" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC016_Order_Dish_From_SouthIndianResturant@57a78e3]" started-at="2023-08-05T12:27:05 IST" name="setup" finished-at="2023-08-05T12:27:05 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC016_Order_Dish_From_SouthIndianResturant.orderDish()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="orderDish()[pri:0, instance:OFOS.TC016_Order_Dish_From_SouthIndianResturant@57a78e3]" started-at="2023-08-05T12:27:05 IST" name="orderDish" finished-at="2023-08-05T12:27:09 IST" duration-ms="3199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderDish -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:OFOS.TC016_Order_Dish_From_SouthIndianResturant@57a78e3]" started-at="2023-08-05T12:27:09 IST" name="CloseApp" finished-at="2023-08-05T12:27:09 IST" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- OFOS.TC016_Order_Dish_From_SouthIndianResturant -->
+      <class name="OFOS.TC013_Order_Dish_From_ContinentalResturant">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:OFOS.TC013_Order_Dish_From_ContinentalResturant@6fa51cd4]" started-at="2023-08-05T12:27:27 IST" name="browserSetup" finished-at="2023-08-05T12:27:35 IST" duration-ms="8642" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC013_Order_Dish_From_ContinentalResturant@6fa51cd4]" started-at="2023-08-05T12:27:35 IST" name="setup" finished-at="2023-08-05T12:27:35 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC002_Verify_Login.verifyLogin() throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin()[pri:0, instance:OFOS.TC013_Order_Dish_From_ContinentalResturant@6fa51cd4]" started-at="2023-08-05T12:27:35 IST" name="verifyLogin" finished-at="2023-08-05T12:27:37 IST" duration-ms="1829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC013_Order_Dish_From_ContinentalResturant@6fa51cd4]" started-at="2023-08-05T12:27:37 IST" name="setup" finished-at="2023-08-05T12:27:37 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC013_Order_Dish_From_ContinentalResturant.OrderDish()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="OrderDish()[pri:0, instance:OFOS.TC013_Order_Dish_From_ContinentalResturant@6fa51cd4]" started-at="2023-08-05T12:27:37 IST" name="OrderDish" finished-at="2023-08-05T12:27:39 IST" duration-ms="1555" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Dishes] but found [Home]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Dishes] but found [Home]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:656)
+at org.testng.Assert.assertEquals(Assert.java:666)
+at OFOS.TC013_Order_Dish_From_ContinentalResturant.OrderDish(TC013_Order_Dish_From_ContinentalResturant.java:28)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderDish -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:OFOS.TC013_Order_Dish_From_ContinentalResturant@6fa51cd4]" started-at="2023-08-05T12:27:39 IST" name="CloseApp" finished-at="2023-08-05T12:27:39 IST" duration-ms="445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- OFOS.TC013_Order_Dish_From_ContinentalResturant -->
+      <class name="OFOS.TC004_Add_Dishes_From_Restaurant">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:OFOS.TC004_Add_Dishes_From_Restaurant@402c4085]" started-at="2023-08-05T12:27:09 IST" name="browserSetup" finished-at="2023-08-05T12:27:20 IST" duration-ms="10979" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC004_Add_Dishes_From_Restaurant@402c4085]" started-at="2023-08-05T12:27:20 IST" name="setup" finished-at="2023-08-05T12:27:20 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC002_Verify_Login.verifyLogin() throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin()[pri:0, instance:OFOS.TC004_Add_Dishes_From_Restaurant@402c4085]" started-at="2023-08-05T12:27:20 IST" name="verifyLogin" finished-at="2023-08-05T12:27:22 IST" duration-ms="1918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC004_Add_Dishes_From_Restaurant@402c4085]" started-at="2023-08-05T12:27:22 IST" name="setup" finished-at="2023-08-05T12:27:22 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC004_Add_Dishes_From_Restaurant.addDishes()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addDishes()[pri:0, instance:OFOS.TC004_Add_Dishes_From_Restaurant@402c4085]" started-at="2023-08-05T12:27:22 IST" name="addDishes" finished-at="2023-08-05T12:27:26 IST" duration-ms="4330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDishes -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:OFOS.TC004_Add_Dishes_From_Restaurant@402c4085]" started-at="2023-08-05T12:27:26 IST" name="CloseApp" finished-at="2023-08-05T12:27:27 IST" duration-ms="412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- OFOS.TC004_Add_Dishes_From_Restaurant -->
+      <class name="OFOS.TC001_Verify_Register">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:OFOS.TC001_Verify_Register@710c2b53]" started-at="2023-08-05T12:27:49 IST" name="browserSetup" finished-at="2023-08-05T12:27:54 IST" duration-ms="5243" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC001_Verify_Register@710c2b53]" started-at="2023-08-05T12:27:54 IST" name="setup" finished-at="2023-08-05T12:27:54 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC001_Verify_Register.verifyRegister(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegister(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:OFOS.TC001_Verify_Register@710c2b53]" started-at="2023-08-05T12:27:54 IST" name="verifyRegister" data-provider="Registerdata" finished-at="2023-08-05T12:27:57 IST" duration-ms="3026" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vijay9400]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vijay]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ganesan]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[vijay@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9787071322]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Vijay@123]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Vijay@123]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[indiqube Banglore]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegister -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:OFOS.TC001_Verify_Register@710c2b53]" started-at="2023-08-05T12:27:57 IST" name="CloseApp" finished-at="2023-08-05T12:27:58 IST" duration-ms="527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- OFOS.TC001_Verify_Register -->
+      <class name="OFOS.TC017_Order_Dish_From_NorthIndianResturant">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:OFOS.TC017_Order_Dish_From_NorthIndianResturant@2767e23c]" started-at="2023-08-05T12:27:39 IST" name="browserSetup" finished-at="2023-08-05T12:27:45 IST" duration-ms="6211" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC017_Order_Dish_From_NorthIndianResturant@2767e23c]" started-at="2023-08-05T12:27:45 IST" name="setup" finished-at="2023-08-05T12:27:45 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC017_Order_Dish_From_NorthIndianResturant.orderDish()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="orderDish()[pri:0, instance:OFOS.TC017_Order_Dish_From_NorthIndianResturant@2767e23c]" started-at="2023-08-05T12:27:45 IST" name="orderDish" finished-at="2023-08-05T12:27:49 IST" duration-ms="3164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderDish -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:OFOS.TC017_Order_Dish_From_NorthIndianResturant@2767e23c]" started-at="2023-08-05T12:27:49 IST" name="CloseApp" finished-at="2023-08-05T12:27:49 IST" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- OFOS.TC017_Order_Dish_From_NorthIndianResturant -->
+      <class name="OFOS.TC002_Verify_Login">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:OFOS.TC002_Verify_Login@14028087]" started-at="2023-08-05T12:28:14 IST" name="browserSetup" finished-at="2023-08-05T12:28:23 IST" duration-ms="8755" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC002_Verify_Login@14028087]" started-at="2023-08-05T12:28:23 IST" name="setup" finished-at="2023-08-05T12:28:23 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC002_Verify_Login.verifyLogin() throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin()[pri:0, instance:OFOS.TC002_Verify_Login@14028087]" started-at="2023-08-05T12:28:23 IST" name="verifyLogin" finished-at="2023-08-05T12:28:25 IST" duration-ms="1834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:OFOS.TC002_Verify_Login@14028087]" started-at="2023-08-05T12:28:25 IST" name="CloseApp" finished-at="2023-08-05T12:28:25 IST" duration-ms="566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- OFOS.TC002_Verify_Login -->
+      <class name="OFOS.TC014_Order_Using_Paypal">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:OFOS.TC014_Order_Using_Paypal@5386659f]" started-at="2023-08-05T12:27:58 IST" name="browserSetup" finished-at="2023-08-05T12:28:08 IST" duration-ms="9779" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC014_Order_Using_Paypal@5386659f]" started-at="2023-08-05T12:28:08 IST" name="setup" finished-at="2023-08-05T12:28:08 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC003_Add_Dishes_FromHome.addDishes() throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addDishes()[pri:0, instance:OFOS.TC014_Order_Using_Paypal@5386659f]" started-at="2023-08-05T12:28:08 IST" name="addDishes" finished-at="2023-08-05T12:28:12 IST" duration-ms="4724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDishes -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC014_Order_Using_Paypal@5386659f]" started-at="2023-08-05T12:28:12 IST" name="setup" finished-at="2023-08-05T12:28:12 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC014_Order_Using_Paypal.OrderUsingPaypal() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="OrderUsingPaypal()[pri:0, instance:OFOS.TC014_Order_Using_Paypal@5386659f]" started-at="2023-08-05T12:28:12 IST" name="OrderUsingPaypal" finished-at="2023-08-05T12:28:14 IST" duration-ms="1222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderUsingPaypal -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:OFOS.TC014_Order_Using_Paypal@5386659f]" started-at="2023-08-05T12:28:14 IST" name="CloseApp" finished-at="2023-08-05T12:28:14 IST" duration-ms="459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- OFOS.TC014_Order_Using_Paypal -->
+      <class name="OFOS.TC003_Add_Dishes_FromHome">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:OFOS.TC003_Add_Dishes_FromHome@cecf639]" started-at="2023-08-05T12:28:25 IST" name="browserSetup" finished-at="2023-08-05T12:28:31 IST" duration-ms="5919" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC003_Add_Dishes_FromHome@cecf639]" started-at="2023-08-05T12:28:31 IST" name="setup" finished-at="2023-08-05T12:28:31 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC003_Add_Dishes_FromHome.addDishes() throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addDishes()[pri:0, instance:OFOS.TC003_Add_Dishes_FromHome@cecf639]" started-at="2023-08-05T12:28:31 IST" name="addDishes" finished-at="2023-08-05T12:28:39 IST" duration-ms="8335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDishes -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:OFOS.TC003_Add_Dishes_FromHome@cecf639]" started-at="2023-08-05T12:28:39 IST" name="CloseApp" finished-at="2023-08-05T12:28:40 IST" duration-ms="437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- OFOS.TC003_Add_Dishes_FromHome -->
+      <class name="OFOS.TC012_Order_Dish_From_AmericanResturant">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:OFOS.TC012_Order_Dish_From_AmericanResturant@1caa0244]" started-at="2023-08-05T12:28:40 IST" name="browserSetup" finished-at="2023-08-05T12:28:48 IST" duration-ms="7833" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC012_Order_Dish_From_AmericanResturant@1caa0244]" started-at="2023-08-05T12:28:48 IST" name="setup" finished-at="2023-08-05T12:28:48 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC002_Verify_Login.verifyLogin() throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin()[pri:0, instance:OFOS.TC012_Order_Dish_From_AmericanResturant@1caa0244]" started-at="2023-08-05T12:28:48 IST" name="verifyLogin" finished-at="2023-08-05T12:28:50 IST" duration-ms="1936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC012_Order_Dish_From_AmericanResturant@1caa0244]" started-at="2023-08-05T12:28:50 IST" name="setup" finished-at="2023-08-05T12:28:50 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC012_Order_Dish_From_AmericanResturant.orderDish() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="orderDish()[pri:0, instance:OFOS.TC012_Order_Dish_From_AmericanResturant@1caa0244]" started-at="2023-08-05T12:28:50 IST" name="orderDish" finished-at="2023-08-05T12:29:00 IST" duration-ms="10488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderDish -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:OFOS.TC012_Order_Dish_From_AmericanResturant@1caa0244]" started-at="2023-08-05T12:29:00 IST" name="CloseApp" finished-at="2023-08-05T12:29:01 IST" duration-ms="434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- OFOS.TC012_Order_Dish_From_AmericanResturant -->
+      <class name="OFOS.TC019_Order_Dish_From_HeavelnyFoodResturant">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:OFOS.TC019_Order_Dish_From_HeavelnyFoodResturant@7ce026d3]" started-at="2023-08-05T12:29:01 IST" name="browserSetup" finished-at="2023-08-05T12:29:10 IST" duration-ms="9158" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC019_Order_Dish_From_HeavelnyFoodResturant@7ce026d3]" started-at="2023-08-05T12:29:10 IST" name="setup" finished-at="2023-08-05T12:29:10 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC019_Order_Dish_From_HeavelnyFoodResturant.orderDish()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="orderDish()[pri:0, instance:OFOS.TC019_Order_Dish_From_HeavelnyFoodResturant@7ce026d3]" started-at="2023-08-05T12:29:10 IST" name="orderDish" finished-at="2023-08-05T12:29:13 IST" duration-ms="3303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderDish -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:OFOS.TC019_Order_Dish_From_HeavelnyFoodResturant@7ce026d3]" started-at="2023-08-05T12:29:13 IST" name="CloseApp" finished-at="2023-08-05T12:29:13 IST" duration-ms="420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- OFOS.TC019_Order_Dish_From_HeavelnyFoodResturant -->
+      <class name="OFOS.TC005_Verify_Logout">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:OFOS.TC005_Verify_Logout@7ce69770]" started-at="2023-08-05T12:29:13 IST" name="browserSetup" finished-at="2023-08-05T12:29:20 IST" duration-ms="6769" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC005_Verify_Logout@7ce69770]" started-at="2023-08-05T12:29:20 IST" name="setup" finished-at="2023-08-05T12:29:20 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC002_Verify_Login.verifyLogin() throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin()[pri:0, instance:OFOS.TC005_Verify_Logout@7ce69770]" started-at="2023-08-05T12:29:20 IST" name="verifyLogin" finished-at="2023-08-05T12:29:22 IST" duration-ms="2011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC005_Verify_Logout@7ce69770]" started-at="2023-08-05T12:29:22 IST" name="setup" finished-at="2023-08-05T12:29:22 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC005_Verify_Logout.logout()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logout()[pri:0, instance:OFOS.TC005_Verify_Logout@7ce69770]" started-at="2023-08-05T12:29:22 IST" name="logout" finished-at="2023-08-05T12:29:25 IST" duration-ms="2522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:OFOS.TC005_Verify_Logout@7ce69770]" started-at="2023-08-05T12:29:25 IST" name="CloseApp" finished-at="2023-08-05T12:29:25 IST" duration-ms="415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- OFOS.TC005_Verify_Logout -->
+      <class name="OFOS.TC011_Order_Dish_From_ChinseResturant">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:OFOS.TC011_Order_Dish_From_ChinseResturant@1750fbeb]" started-at="2023-08-05T12:29:25 IST" name="browserSetup" finished-at="2023-08-05T12:29:31 IST" duration-ms="5917" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC011_Order_Dish_From_ChinseResturant@1750fbeb]" started-at="2023-08-05T12:29:31 IST" name="setup" finished-at="2023-08-05T12:29:31 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC002_Verify_Login.verifyLogin() throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin()[pri:0, instance:OFOS.TC011_Order_Dish_From_ChinseResturant@1750fbeb]" started-at="2023-08-05T12:29:31 IST" name="verifyLogin" finished-at="2023-08-05T12:29:33 IST" duration-ms="1804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC011_Order_Dish_From_ChinseResturant@1750fbeb]" started-at="2023-08-05T12:29:33 IST" name="setup" finished-at="2023-08-05T12:29:33 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC011_Order_Dish_From_ChinseResturant.OrderDish() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="OrderDish()[pri:0, instance:OFOS.TC011_Order_Dish_From_ChinseResturant@1750fbeb]" started-at="2023-08-05T12:29:33 IST" name="OrderDish" finished-at="2023-08-05T12:29:42 IST" duration-ms="8875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderDish -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:OFOS.TC011_Order_Dish_From_ChinseResturant@1750fbeb]" started-at="2023-08-05T12:29:42 IST" name="CloseApp" finished-at="2023-08-05T12:29:42 IST" duration-ms="413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- OFOS.TC011_Order_Dish_From_ChinseResturant -->
+      <class name="OFOS.TC008_Cancel_Order">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:OFOS.TC008_Cancel_Order@5b247367]" started-at="2023-08-05T12:29:42 IST" name="browserSetup" finished-at="2023-08-05T12:29:50 IST" duration-ms="7352" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC008_Cancel_Order@5b247367]" started-at="2023-08-05T12:29:50 IST" name="setup" finished-at="2023-08-05T12:29:50 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC007_Order_Using_Cod.OrderUsingCod() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="OrderUsingCod()[pri:0, instance:OFOS.TC008_Cancel_Order@5b247367]" started-at="2023-08-05T12:29:50 IST" name="OrderUsingCod" finished-at="2023-08-05T12:30:03 IST" duration-ms="13149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderUsingCod -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC008_Cancel_Order@5b247367]" started-at="2023-08-05T12:30:03 IST" name="setup" finished-at="2023-08-05T12:30:03 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC008_Cancel_Order.cancelOrder() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="cancelOrder()[pri:0, instance:OFOS.TC008_Cancel_Order@5b247367]" started-at="2023-08-05T12:30:03 IST" name="cancelOrder" finished-at="2023-08-05T12:30:09 IST" duration-ms="6171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cancelOrder -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:OFOS.TC008_Cancel_Order@5b247367]" started-at="2023-08-05T12:30:09 IST" name="CloseApp" finished-at="2023-08-05T12:30:09 IST" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- OFOS.TC008_Cancel_Order -->
+      <class name="OFOS.TC009_Order_Dish_FromNorthStreetTavern">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:OFOS.TC009_Order_Dish_FromNorthStreetTavern@7e057f43]" started-at="2023-08-05T12:30:47 IST" name="browserSetup" finished-at="2023-08-05T12:30:53 IST" duration-ms="5874" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC009_Order_Dish_FromNorthStreetTavern@7e057f43]" started-at="2023-08-05T12:30:53 IST" name="setup" finished-at="2023-08-05T12:30:53 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC002_Verify_Login.verifyLogin() throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin()[pri:0, instance:OFOS.TC009_Order_Dish_FromNorthStreetTavern@7e057f43]" started-at="2023-08-05T12:30:53 IST" name="verifyLogin" finished-at="2023-08-05T12:30:55 IST" duration-ms="1782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC009_Order_Dish_FromNorthStreetTavern@7e057f43]" started-at="2023-08-05T12:30:55 IST" name="setup" finished-at="2023-08-05T12:30:55 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC009_Order_Dish_FromNorthStreetTavern.addDish() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addDish()[pri:0, instance:OFOS.TC009_Order_Dish_FromNorthStreetTavern@7e057f43]" started-at="2023-08-05T12:30:55 IST" name="addDish" finished-at="2023-08-05T12:31:04 IST" duration-ms="8945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDish -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:OFOS.TC009_Order_Dish_FromNorthStreetTavern@7e057f43]" started-at="2023-08-05T12:31:04 IST" name="CloseApp" finished-at="2023-08-05T12:31:05 IST" duration-ms="1107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- OFOS.TC009_Order_Dish_FromNorthStreetTavern -->
+      <class name="OFOS.TC010_Order_DishFrom_Italian">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:OFOS.TC010_Order_DishFrom_Italian@6e9a5ed8]" started-at="2023-08-05T12:30:29 IST" name="browserSetup" finished-at="2023-08-05T12:30:36 IST" duration-ms="7292" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC010_Order_DishFrom_Italian@6e9a5ed8]" started-at="2023-08-05T12:30:36 IST" name="setup" finished-at="2023-08-05T12:30:36 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC002_Verify_Login.verifyLogin() throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin()[pri:0, instance:OFOS.TC010_Order_DishFrom_Italian@6e9a5ed8]" started-at="2023-08-05T12:30:36 IST" name="verifyLogin" finished-at="2023-08-05T12:30:38 IST" duration-ms="1993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC010_Order_DishFrom_Italian@6e9a5ed8]" started-at="2023-08-05T12:30:38 IST" name="setup" finished-at="2023-08-05T12:30:38 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC010_Order_DishFrom_Italian.orderDish() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="orderDish()[pri:0, instance:OFOS.TC010_Order_DishFrom_Italian@6e9a5ed8]" started-at="2023-08-05T12:30:38 IST" name="orderDish" finished-at="2023-08-05T12:30:47 IST" duration-ms="8629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderDish -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:OFOS.TC010_Order_DishFrom_Italian@6e9a5ed8]" started-at="2023-08-05T12:30:47 IST" name="CloseApp" finished-at="2023-08-05T12:30:47 IST" duration-ms="433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- OFOS.TC010_Order_DishFrom_Italian -->
+      <class name="OFOS.TC015_Dispatch_Order">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:OFOS.TC015_Dispatch_Order@268f106e]" started-at="2023-08-05T12:30:09 IST" name="browserSetup" finished-at="2023-08-05T12:30:15 IST" duration-ms="6113" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS.TC015_Dispatch_Order@268f106e]" started-at="2023-08-05T12:30:15 IST" name="setup" finished-at="2023-08-05T12:30:15 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS.TC015_Dispatch_Order.dispatch() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="dispatch()[pri:0, instance:OFOS.TC015_Dispatch_Order@268f106e]" started-at="2023-08-05T12:30:15 IST" name="dispatch" finished-at="2023-08-05T12:30:29 IST" duration-ms="13145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dispatch -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:OFOS.TC015_Dispatch_Order@268f106e]" started-at="2023-08-05T12:30:29 IST" name="CloseApp" finished-at="2023-08-05T12:30:29 IST" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- OFOS.TC015_Dispatch_Order -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
